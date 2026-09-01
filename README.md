@@ -27,11 +27,7 @@
   
 ### 🚀 About Me
 
-Mechanical Engineer with a Master’s degree from KAIST specializing in data-driven engineering, CAE simulation,  
-AI, and engineering automation. Experienced in applying Python, machine learning, computer vision, and Generative  
-AI to manufacturing and engineering processes, with demonstrated results in reducing simulation bottlenecks and  
-automating repetitive workflows. Developed solutions spanning AI-based defect detection, CAE automation, Digital  
-Twin systems, and LLM/RAG applications to improve engineering efficiency, product quality, and data utilization.
+Mechanical Engineer with a Master’s degree from KAIST specializing in data-driven engineering, CAE simulation,  AI, and engineering automation. Experienced in applying Python, machine learning, computer vision, and Generative  AI to manufacturing and engineering processes, with demonstrated results in reducing simulation bottlenecks and automating repetitive workflows. Developed solutions spanning AI-based defect detection, CAE automation, Digital Twin systems, and LLM/RAG applications to improve engineering efficiency, product quality, and data utilization.
 
 ### 🛠️ Tech Stack
 
